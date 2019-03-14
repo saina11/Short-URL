@@ -1,4 +1,4 @@
-.body .input{
+body input{
     font: 0.9em Tahoma, sans-serif;
 }
 .title{
@@ -10,7 +10,7 @@
     text-align: center;
     margin: 0 auto;
 }
-.input{
+input{
     padding: 10px;
     background-color: #ffffff;
     border: 1px solid #ccc;
